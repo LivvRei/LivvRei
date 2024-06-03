@@ -1,4 +1,7 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 😎🤓
+●Me chamo Livv Rei 
+●Estou cursando o alura
+●Estou me desenvolvendo na linguagem Java script 
 
 <!--
 **LivvRei/LivvRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
